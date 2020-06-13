@@ -1,0 +1,2 @@
+rm *.so
+make clean
